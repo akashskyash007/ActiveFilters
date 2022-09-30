@@ -1,7 +1,7 @@
-Circuit: * C:\users\akash\Desktop\ActiveFiltersPractice\Draft1.asc
+Circuit: * C:\users\akash\Desktop\ActiveFiltersPractice\Draft2.asc
 
 
-Date: Fri Sep 30 20:02:48 2022
+Date: Fri Sep 30 20:34:27 2022
 Total elapsed time: 0.066 seconds.
 
 tnom = 27
@@ -13,6 +13,6 @@ tranpoints = 0
 accept = 0
 rejected = 0
 matrix size = 5
-fillins = 2
+fillins = 1
 solver = Normal
 
