@@ -67,7 +67,7 @@
 + noic=-1.24515784572817e-12	ef=0.92					em=41000000 )
 
 .model cmosp pmos ( level=49
-+ mobmod=1.0000e+00         version=3.1000e+00        capmod=2.0000e+00
++ version=3.1         mobmod=1        capmod=2.0000e+00
 + binunit=1.0000e+00        nqsmod=0.0000e+00         
 + tox=7.7e-9                                          toxm=4.2000e-09
 + xj=1e-7                   nch=8.52e+16              ngate=1.0000e+23
@@ -97,7 +97,7 @@
 + noff=1.0000e+00           voffcv=0.0000e+00         acde=1.0000e+00
 + moin=1.5000e+01           lmin=1.8000e-07           lmax=5.0000e-05
 + wmin=2.4000e-07           wmax=1.0000e-04           
-+ xl= -5e-8                   
++ xl=-5e-8                   
 + xw=1.5E-7                                           js=3.0000e-06
 + jsw=4.1200e-11                                      cj=1.413045e-3
 + mj=0.5610227              pb=0.99             
